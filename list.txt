@@ -6,6 +6,10 @@ Apples
 
 MEAT
 Sausages
+Beef
+Pork
+Lamb
+Rabbit
 
 DAIRY
 
